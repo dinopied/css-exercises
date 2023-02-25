@@ -10,6 +10,21 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  /* my edits: */
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.smallcont{
+display:flex;
+flex-direction:column;
+text-align: center;
+}
+
+.bigcont{
+  display:flex;
+  gap:52px;
+  justify-content: center;
 }
 
 /* do not edit this footer */
